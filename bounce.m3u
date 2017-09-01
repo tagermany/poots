@@ -1,0 +1,63 @@
+#EXTM3U
+
+#EXTINF:0,AMC
+http://tv.bmx-tv.top:1935/live/17.smil/playlist.m3u8
+#EXTINF:0,Bounce TV
+http://tv.bmx-tv.top:1935/live/5.smil/playlist.m3u8
+#EXTINF:0,Comet
+http://tv.bmx-tv.top:1935/live/12.smil/playlist.m3u8
+#EXTINF:0,Cozi TV
+http://tv.bmx-tv.top:1935/live/14.smil/playlist.m3u8
+#EXTINF:0,CMT
+http://tv.bmx-tv.top:1935/live/23.smil/playlist.m3u8
+#EXTINF:0,GetTV
+http://tv.bmx-tv.top:1935/live/6.smil/playlist.m3u8
+#EXTINF:0,Hallmark Channel
+http://tv.bmx-tv.top:1935/live/18.smil/playlist.m3u8
+#EXTINF:0,This TV
+http://tv.bmx-tv.top:1935/live/15.smil/playlist.m3u8
+#EXTINF:0,Nick
+http://tv.bmx-tv.top:1935/live/21.smil/playlist.m3u8
+#EXTINF:0,RFD-TV
+http://tv.bmx-tv.top:1935/live/10.smil/playlist.m3u8
+#EXTINF:0,C-SPAN
+http://tv.bmx-tv.top:1935/live/19.smil/playlist.m3u8
+
+#EXTINF:0,ESPN
+http://tv.bmx-tv.top:1935/live/1.smil/playlist.m3u8
+#EXTINF:0,Fight Network
+http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
+#EXTINF:0,WOSN - West Ohio Sports Network
+http://tv.bmx-tv.top:1935/live/13.smil/playlist.m3u8
+#EXTINF:0,FNTSY Sports Network
+http://tv.bmx-tv.top:1935/live/7.smil/playlist.m3u8
+#EXTINF:0,MAVTV
+http://tv.bmx-tv.top:1935/live/4.smil/playlist.m3u8
+#EXTINF:0,Pursuit Channel
+http://tv.bmx-tv.top:1935/live/3.smil/playlist.m3u8
+
+#EXTINF:0,MTV
+http://tv.bmx-tv.top:1935/live/20.smil/playlist.m3u8
+#EXTINF:0,VH-1
+http://tv.bmx-tv.top:1935/live/22.smil/playlist.m3u8
+
+
+#EXTINF:0,Hillsong Channel
+http://tv.bmx-tv.top:1935/live/25.smil/playlist.m3u8
+#EXTINF:0,JUCE TV
+http://tv.bmx-tv.top:1935/live/9.smil/playlist.m3u8
+#EXTINF:0,Light TV
+http://tv.bmx-tv.top:1935/live/27.smil/playlist.m3u8
+#EXTINF:0,TBN HD 
+http://tv.bmx-tv.top:1935/live/26.smil/playlist.m3u8
+#EXTINF:0,Trinity Broadcasting Network
+http://tv.bmx-tv.top:1935/live/8.smil/playlist.m3u8
+#EXTINF:0,Smile
+http://tv.bmx-tv.top:1935/live/11.smil/playlist.m3u8
+#EXTINF:0,theblaze
+http://tv.bmx-tv.top:1935/live/16.smil/playlist.m3u8
+#EXTINF:0,The NOW Television Network
+http://tv.bmx-tv.top:1935/live/24.smil/playlist.m3u8
+
+#EXTINF:0,TEST
+http://tv.bmx-tv.top:1935/live/28.smil/playlist.m3u8
